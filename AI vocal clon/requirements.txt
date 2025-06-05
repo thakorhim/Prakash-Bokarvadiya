@@ -1,0 +1,9 @@
+torch
+torchaudio
+torchvision
+TTS
+numpy
+soundfile
+librosa
+Flask
+scipy
