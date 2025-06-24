@@ -1,0 +1,1 @@
+#nagative string opration

@@ -1,0 +1,16 @@
+#list
+l=["hello",23,45.67,True,"world"]
+print(type(l))
+print(l)
+l.append(34)
+print(l)
+l.extend([23,45,67])
+print(l)
+l.insert(2,100)
+print(l)
+l.pop()
+print(l)
+l.pop(0)
+print(l)
+l.remove(100)
+print(l)

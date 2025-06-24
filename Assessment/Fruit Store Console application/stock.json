@@ -1,0 +1,12 @@
+{
+    "Bannna": {
+        "name": "Bannna",
+        "quantity": 2,
+        "price": 60
+    },
+    "Apple": {
+        "name": "Apple",
+        "quantity": 20,
+        "price": 100
+    }
+}
