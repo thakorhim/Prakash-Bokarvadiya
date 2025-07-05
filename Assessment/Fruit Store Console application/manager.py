@@ -4,6 +4,7 @@
 from models import Fruit
 from storage import Storage
 
+
 class FruitManager:
     """Class to handle all manager operations for fruit inventory"""
     def __init__(self):

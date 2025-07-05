@@ -23,7 +23,7 @@
 
 # Grade          : A
 
-from os import name
+
 
 
 def Student_info(name1,roll):
