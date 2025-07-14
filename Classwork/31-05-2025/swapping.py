@@ -1,18 +1,18 @@
-#swapping
-a=int(input("Enter Number A : "))
-b=int(input("Enter Number B : "))
-temp=a
-a=b
-b=temp
-print("After swapping A  : ",a)
-print("After swapping B : ",b)
+# #swapping
+# a=int(input("Enter Number A : "))
+# b=int(input("Enter Number B : "))
+# temp=a
+# a=b
+# b=temp
+# print("After swapping A  : ",a)
+# print("After swapping B : ",b)
 
-"""
-a,b=b,a
-print("After swapping A  : ",a)
-print("After swapping B : ",b)
+# """
+# a,b=b,a
+# print("After swapping A  : ",a)
+# print("After swapping B : ",b)
 
-"""
+# """
 
 #without using temp variable
 x=int(input("Enter Number x : "))
